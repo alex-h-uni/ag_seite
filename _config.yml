@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: AG Computational Literary Studies
-email: your-email@example.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Homepage
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alex-h-uni.github.io/ag_seite/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
