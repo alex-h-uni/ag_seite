@@ -3,5 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Startseite
+nav_order: 1
 ---
-Test Test Test
+---
+
+# Willkommen auf der Homepage der AG Computational Literary Studies der [Universität Bielefeld](https://www.uni-bielefeld.de/)!
